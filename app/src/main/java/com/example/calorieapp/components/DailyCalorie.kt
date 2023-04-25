@@ -26,7 +26,7 @@ fun DailyWidget(
     OutlinedCard(
         modifier = Modifier
             .fillMaxWidth()
-            .height(500.dp)
+            .height(700.dp)
             .padding(10.dp),
         elevation = CardDefaults.cardElevation(10.dp),
         shape = RoundedCornerShape(20.dp)
